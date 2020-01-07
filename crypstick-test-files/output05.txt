@@ -1,0 +1,2 @@
+E)ncrypt or D)ecrypt: Method (rev, shift, xor): Message: 
+0a 0a 21 65 72 6f 68 73 20 61 65 73 20 65 68 74 20 79 62 20 73 6c 6c 65 68 73 20 61 65 73 20 73 6c 6c 65 73 20 65 68 53

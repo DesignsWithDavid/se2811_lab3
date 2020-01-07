@@ -1,0 +1,3 @@
+E)ncrypt or D)ecrypt: Method (rev, shift, xor): Message: 
+dog
+

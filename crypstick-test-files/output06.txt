@@ -1,0 +1,2 @@
+E)ncrypt or D)ecrypt: Method (rev, shift, xor): Shift amount: Message: 
+88 7c 79 34 77 75 88 34 77 75 81 79 34 76 75 77 7f 40 34 8b 79 34 88 7c 83 89 7b 7c 88 34 7d 88 34 8b 75 87 34 75 34 5b 63 62 62 59 66 35 1e 1e

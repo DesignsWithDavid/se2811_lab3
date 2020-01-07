@@ -1,0 +1,2 @@
+E)ncrypt or D)ecrypt: Method (rev, shift, xor): Shift amount: Message: 
+IBM
